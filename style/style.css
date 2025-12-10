@@ -37,6 +37,7 @@ header {
   outline: 5px solid rgb(187, 14, 14);
   outline-offset: -5px;
   font-size: 50px;
+  text-align: center;
 }
 
 footer {
@@ -44,4 +45,5 @@ footer {
   outline: 5px solid rgb(17, 14, 187);
   outline-offset: -5px;
   font-size: 50px;
+  text-align: center;
 }
